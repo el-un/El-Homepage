@@ -73,7 +73,8 @@ nav a:hover {
 
 main {
     max-width: 1000px;
-    margin: 0 auto;
+    margin: 0px auto;
+    padding: 0 10px;
 }
 
 .flex {
